@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cell{
+    border: 1px solid black;
+    aspect-ratio: 1 / 1;
+    color: orange;
+}
+
+.container{
+    width: 800px;
+    margin: 0 auto
+}
+
+body{
+    background-color: purple;
+}
