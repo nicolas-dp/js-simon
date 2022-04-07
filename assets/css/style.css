@@ -7,7 +7,7 @@
 .cell{
     border: 1px solid black;
     aspect-ratio: 1 / 1;
-    color: orange;
+    color: white;
 }
 
 .container{
@@ -16,5 +16,6 @@
 }
 
 body{
+    text-align: center;
     background-color: purple;
 }
